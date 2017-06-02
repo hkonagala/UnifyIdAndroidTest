@@ -1,4 +1,4 @@
-# UnifyIdAndroidTest2
+# UnifyIdAndroidTest
 
 ## Technique
 1. Created an activity with a single button and upon clicking created a repeating task which will open camera and take a picture.
